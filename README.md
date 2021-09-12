@@ -11,12 +11,11 @@ Skills: C / C++ / JAVA/ HTML / CSS
 - 🌱 I’m currently learning Python ,Django and JavaScript  
 - 🤔 I’m looking for help with javascript 
 - 💬 Ask me about anything 
-- 📫 How to reach me: brijeshvadaliya1@gmail.com
+- 📫 How to reach me: brijeshvadaliya1@gmail.com 
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I ❤️ 👨‍💻 
 -  <div align="center"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif"></div>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/B-8128)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brijesh-vadaliya-16b3a2202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/brijesh.vadaliya.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/brijesh_vadaliya_8128//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/VadaliaBrijesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://patelbillu7.wixsite.com/my-site-2)  
-
+  
 
 
 
