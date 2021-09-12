@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/76428127/132983719-39179e9b-6cf0-4feb-873c-36853bd45813.png)
+
 ### Hi there <img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Hi.gif" width="30px">
 
 This is the place where I open-source stuff and break things :rofl:. I like experimenting with new technologies, building small projects, and occassionally joining hackathons✨.
