@@ -25,6 +25,9 @@ Skills: C / C++ / JAVA/ HTML / CSS
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=b-8128&" alt="b-8128" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 
 
 
