@@ -21,7 +21,7 @@ Skills: C / C++ / JAVA/ HTML / CSS
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=b-8128&show_icons=true&locale=en" alt="b-8128" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=b-8128&show_icons=true&locale=en" alt="b-8128" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=b-8128&" alt="b-8128" /></p>
 
