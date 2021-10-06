@@ -36,8 +36,6 @@ Skills: C / C++ / JAVA/ HTML / CSS
  
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=b-8128&label=Profile%20views&color=0e75b6&style=flat" alt="b-8128" /> </p>
  
-![designing-png-hd-background-banner-design-png-7-1600](https://user-images.githubusercontent.com/76428127/132983387-9f04ec8c-7b5a-400c-93a6-b90fb155be12.jpg)
-
 
 
 
