@@ -28,6 +28,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshvadalia&" alt="brijeshvadalia" /></p>
 
 
+[![Brijesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=brijeshvadalia&theme=xcode)](https://git.io/)
 
 <div align="center"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif"></div>
  
