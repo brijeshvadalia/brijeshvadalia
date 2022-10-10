@@ -68,6 +68,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 </p>
 
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+
 
 
