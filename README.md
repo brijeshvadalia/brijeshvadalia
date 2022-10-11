@@ -35,6 +35,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 </p>
 </p>
 
+### 👨‍💻 Top Languages Used*:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brijeshvadalia&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brijeshvadalia&theme=nord_dark)
+
+
 ## Snake Eating by contribution Graph
 ![snake gif](https://github.com/brijeshvadalia/brijeshvadalia/blob/output/github-contribution-grid-snake.gif)
 
@@ -52,9 +58,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-
 
 
 
