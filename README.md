@@ -35,10 +35,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 </p>
 </p>
 
-### 👨‍💻 Top Languages Used*:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brijeshvadalia&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brijeshvadalia&theme=nord_dark)
 
 
 ## Snake Eating by contribution Graph
