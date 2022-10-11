@@ -43,10 +43,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshvadalia&" alt="brijeshvadalia" /></p>
+<p><  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshvadalia&hide_border=true&theme=radical" /></p>
 
 
-[![Brijesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=brijeshvadalia&theme=xcode)](https://git.io/)
+<a href="http://www.github.com/brijeshvadalia"><img src="https://activity-graph.herokuapp.com/graph?username=brijeshvadalia&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=Brijesh%20Vadalia%20Contribution%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### 🔖 Holopins:
   
