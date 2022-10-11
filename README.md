@@ -14,7 +14,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 - 🔭 I’m currently working on something refreshing 
-- 🌱 I’m currently learning Python and JavaScript   
+- 🌱 I’m currently learning JavaScript   
 - 💬 Ask me about anything 
 - 📫 How to reach me: brijeshvadaliya1@gmail.com 
 - 😄 Pronouns: He/Him/His 
