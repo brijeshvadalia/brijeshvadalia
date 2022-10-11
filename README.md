@@ -22,10 +22,17 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 👨‍💻 All of my projects are available at [https://brijesh8128-portfolio.netlify.app/](https://brijesh8128-portfolio.netlify.app/)
 - 📝 I regularly write articles on [https://brijeshvadaliya8128.hashnode.dev/](https://brijeshvadaliya8128.hashnode.dev/)
 
-## 🔝 Most used languages
+### ⚙️ &nbsp;GitHub Analytics
 
-<p>
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshvadalia&layout=compact&hide_border=true&theme=radical" />
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=brijeshvadalia&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshvadalia&theme=onedark&hide_border=true"/>
+    </a>
+  <p align="center" >  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brijeshvadalia&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 </p>
 
 ## Snake Eating by contribution Graph
@@ -49,7 +56,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-<p><  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshvadalia&hide_border=true&theme=radical" /></p>
 
 
 <a href="http://www.github.com/brijeshvadalia"><img src="https://activity-graph.herokuapp.com/graph?username=brijeshvadalia&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=Brijesh%20Vadalia%20Contribution%20Graph" alt="GitHub Commits Graph" /></a>
