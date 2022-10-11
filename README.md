@@ -22,6 +22,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 👨‍💻 All of my projects are available at [https://brijesh8128-portfolio.netlify.app/](https://brijesh8128-portfolio.netlify.app/)
 - 📝 I regularly write articles on [https://brijeshvadaliya8128.hashnode.dev/](https://brijeshvadaliya8128.hashnode.dev/)
 
+## 🔝 Most used languages
+
+<p>
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshvadalia&layout=compact&hide_border=true&theme=radical" />
+</p>
+
 ## Snake Eating by contribution Graph
 ![snake gif](https://github.com/brijeshvadalia/brijeshvadalia/blob/output/github-contribution-grid-snake.gif)
 
