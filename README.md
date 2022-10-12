@@ -11,7 +11,7 @@ This is the place where I open-source stuff and break things :rofl:. I like expe
 #### I am a helping hand to anyone in IT related support.
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<p align = "center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijeshvadalia&theme=dark_lover" alt="brijeshvadalia" /></a> </p>
+<p align = "center"> <a href="https://github.com/brijeshvadalia/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijeshvadalia&theme=dark_lover" alt="brijeshvadalia" /></a> </p>
 
 - 🔭 I’m currently working on something refreshing 
 - 🌱 I’m currently learning JavaScript   
