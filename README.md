@@ -11,7 +11,7 @@ This is the place where I open-source stuff and break things :rofl:. I like expe
 #### I am a helping hand to anyone in IT related support.
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijeshvadalia&theme=discord" alt="brijeshvadalia" /></a> </p>
 
 - 🔭 I’m currently working on something refreshing 
 - 🌱 I’m currently learning JavaScript   
@@ -65,13 +65,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 [![@brijesh_8128's Holopin board](https://holopin.io/api/user/board?user=brijesh_8128)](https://holopin.io/@brijesh_8128)
 <br>  
 
-<div align="center"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif"></div>
  
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=b-8128&label=Profile%20views&color=0e75b6&style=flat" alt="b-8128" /> </p>
  
  
  
- ><h1> The years during which you work the hardest with nothing to show will be the years that will  build you. And those will also be the years the world will not acknowledge you.</h1>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -79,6 +78,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="https://instagram.com/brijesh_vadaliya_8128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brijesh_vadaliya_8128" height="30" width="40" /></a>
 </p>
 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
