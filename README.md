@@ -72,12 +72,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
  
  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brijesh8128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brijesh8128" height="30" width="40" /></a>
-<a href="https://instagram.com/brijesh_vadaliya_8128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brijesh_vadaliya_8128" height="30" width="40" /></a>
-</p>
+### Connect with me:
 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brijeshvadaliya1@gmail.com)](mailto:brijeshvadaliya1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brijesh-vadaliya-16b3a2202/)](https://www.linkedin.com/in/brijesh8128)
+![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/brijesh_vadaliya_8128/)
+
+<br />
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
