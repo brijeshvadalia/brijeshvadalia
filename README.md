@@ -76,7 +76,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brijeshvadaliya1@gmail.com)](mailto:brijeshvadaliya1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brijesh-vadaliya-16b3a2202/)](https://www.linkedin.com/in/brijesh8128)
-![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/brijesh_vadaliya_8128/)
+
 
 <br />
 
