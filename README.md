@@ -14,7 +14,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <p align = "center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=brijeshvadalia&theme=dark_lover" alt="brijeshvadalia" /></a> </p>
 
 - 🔭 I’m currently working on something refreshing 
-- 🌱 I’m currently learning JavaScript   
+- 🌱 I’m currently learning JavaScript and React.js 
 - 💬 Ask me about anything 
 - 📫 How to reach me: brijeshvadaliya1@gmail.com 
 - 😄 Pronouns: He/Him/His 
