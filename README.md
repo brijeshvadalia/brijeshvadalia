@@ -118,7 +118,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 </p>
 
 
-<p  align="center"><em>I love connecting with people 📶 so if you want to say hi, I'll be more happy to meet you!</em></p>
+<p  align="center"><em>I love connecting with people 📶 so if you want to say hi, I'll be more happy to meet you 🤝!</em></p>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brijeshvadaliya1@gmail.com)](mailto:brijeshvadaliya1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brijesh-vadaliya-16b3a2202/)](https://www.linkedin.com/in/brijesh8128)
