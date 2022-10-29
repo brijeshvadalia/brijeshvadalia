@@ -99,6 +99,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Coursera"  src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>
 <img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   <br/>
+<br/>
 
 <img  alt="Codewars"  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
 <img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
