@@ -89,6 +89,8 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="iNeuron"  src="https://img.shields.io/badge/-iNeuron-FE7A16?style=for-the-badge&logo=iNeuron&logoColor=white"/>
 <img  alt="LearnCodeOnline"  src="https://img.shields.io/badge/LearnCodeOnline-A435F0?style=for-the-badge&logo=LearnCodeOnline&logoColor=white"/>
 <br/>
+  <br/>
+
 <img  alt="FreeCodeCamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
 <img  alt="HackerRank"  src="https://img.shields.io/badge/-Hacker rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <img  alt="Quora"  src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
