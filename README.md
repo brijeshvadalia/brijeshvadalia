@@ -71,6 +71,12 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 </p>
 
 <p  align="center">
+  <img  alt="NPM"  src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img  alt="NodeJS"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img  alt="Express.js"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+</p>
+
+<p  align="center">
 <img  alt="git"  src="https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img  alt="Github"  src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img  alt="Heroku"  src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
