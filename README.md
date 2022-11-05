@@ -138,7 +138,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <br />
 
 
-### 🔖 Random Quote:
+### ➰ Random Quote:
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
