@@ -10,7 +10,6 @@ This is the place where I open-source stuff 😊 and break things. I like experi
 
 #### I am a helping hand 🤝 to anyone in IT related support 🎗️.
 I made this project just for fun 😊, it allows you to create nice and simple GitHub Readme files that you can copy or paste and use in your profile 😀.
-
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 - 🔭 I’m currently working on something refreshing 
