@@ -12,7 +12,7 @@ This is the place where I open-source stuff 😊 and break things. I like experi
 I made this project just for fun 😊, it allows you to create nice and simple GitHub Readme files that you can copy or paste and use in your profile 😀.
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-- 🔭 I’m currently working on something refreshing 
+- 🔭 I’m currently working on something refreshing.
 - 🌱 I’m currently learning JavaScript,React.js ExpressJS and NodeJS
 - 💬 Ask me about anything 😅
 - 📫 How to reach me: brijeshvadaliya1@gmail.com 
