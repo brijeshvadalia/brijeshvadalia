@@ -44,9 +44,9 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 ### 🛠 &nbsp;Technologies and Tools
 
 <p  align="center">
-<img  alt="Chrome"  src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
-<img  alt=""  src=""/>
-<img  alt=""  src=""/>
+<img  alt="Edge"  src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
+<img  alt="Chrome"  src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+<img  alt=Brave""  src=""/>
 
 </p>
 
