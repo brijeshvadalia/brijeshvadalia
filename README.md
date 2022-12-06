@@ -35,7 +35,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 </p>
 
 
-
 ## Snake 🐍 Eating by contribution Graph 
 ![Snake GIF](https://github.com/brijeshvadalia/brijeshvadalia/blob/output/github-contribution-grid-snake.svg)
 
