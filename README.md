@@ -79,7 +79,9 @@ I made this project just for fun 😊, it allows you to create nice and simple G
   <img  alt="NodeJS"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img  alt="Express.js"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img  alt="MONGODB"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img  alt="JWT"  src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <img  alt="JWT"  src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <img  alt="EJS"  src="https://img.shields.io/badge/EJS-ED1F35?logo=embarcadero&logoColor=fff&style=for-the-badge"/>  
+  <img  alt="CLOUDINARY"  src="https://img.shields.io/badge/Cloudinary-2C39BD?logo=cloudways&logoColor=fff&style=for-the-badge"/>
 </p>
 
 <p  align="center">
