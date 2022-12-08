@@ -130,7 +130,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
  
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=b-8128&label=Profile%20views&color=0e75b6&style=flat" alt="b-8128" /> </p>
  
- 
+
  
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
