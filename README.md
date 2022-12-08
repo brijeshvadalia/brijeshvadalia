@@ -120,7 +120,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </p>
 
-<a href="http://www.github.com/brijeshvadalia"><img src="https://activity-graph.herokuapp.com/graph?username=brijeshvadalia&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=Brijesh%20Vadalia%20Contribution%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 ### 🔖 Holopins:
   
