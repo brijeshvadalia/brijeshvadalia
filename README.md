@@ -18,8 +18,8 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 - 📫 How to reach me: brijeshvadaliya1@gmail.com 
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I ❤️ 👨‍💻 
-- 👨‍💻 All of my projects are available at [https://brijesh8128-portfolio.netlify.app/](https://brijesh8128-portfolio.netlify.app/)
-- 📝 I regularly write articles on [https://brijeshvadaliya8128.hashnode.dev/](https://brijeshvadaliya8128.hashnode.dev/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://brijesh8128-portfolio.netlify.app/)
+- 📝 I regularly write articles on [Hashnode](https://brijeshvadaliya8128.hashnode.dev/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
