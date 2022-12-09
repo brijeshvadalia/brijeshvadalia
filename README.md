@@ -144,7 +144,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brijesh-vadaliya-16b3a2202/)](https://www.linkedin.com/in/brijesh8128)
 
 
-
 <br />
 
 
