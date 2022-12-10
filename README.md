@@ -121,7 +121,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 </p>
 
 
-
 ### 🔖 Holopins:
   
 [![@brijesh_8128's Holopin board](https://holopin.io/api/user/board?user=brijesh_8128)](https://holopin.io/@brijesh_8128)
