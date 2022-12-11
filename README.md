@@ -21,6 +21,21 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 - 👨‍💻 All of my projects are available at [Portfolio](https://brijesh8128-portfolio.netlify.app/)
 - 📝 I regularly write articles on [Hashnode](https://brijeshvadaliya8128.hashnode.dev/)
 
+# ☁️ Badges from Google Cloud [OFFICIAL]
+
+- ### [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2982457)
+- ### [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2986608)
+- ### [Set Up and Configure a Cloud Environment in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2987512)
+- ### [Automating Infrastructure on Google Cloud with Terraform](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2991317)
+- ### [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2968374)
+- ### [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2969099)
+- ### [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2975339)
+- ### [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2975648)
+- ### [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2975655)
+- ### [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2981033)
+- ### [Logging, Monitoring and Observability in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2981782)
+- ### [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2981966)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
