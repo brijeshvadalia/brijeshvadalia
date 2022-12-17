@@ -36,6 +36,8 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 - #### [Logging, Monitoring and Observability in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2981782)
 - #### [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2981966)
 
+- ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
