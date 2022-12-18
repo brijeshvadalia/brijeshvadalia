@@ -101,6 +101,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
   <img  alt="JWT"  src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
   <img  alt="EJS"  src="https://img.shields.io/badge/EJS-ED1F35?logo=embarcadero&logoColor=fff&style=for-the-badge"/>  
   <img  alt="CLOUDINARY"  src="https://img.shields.io/badge/Cloudinary-2C39BD?logo=cloudways&logoColor=fff&style=for-the-badge"/>
+    <img  alt="JIRA"  src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 <p  align="center">
@@ -118,7 +119,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
 <p  align="center">
   <img  alt="Google Cloud"  src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-    <img  alt="Jira"  src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+
 </p>
 
 
