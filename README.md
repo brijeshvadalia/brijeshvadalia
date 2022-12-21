@@ -51,7 +51,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 </p>
 </p>
 
-## Brijesh's github activity graph
+## Activity graph
 [![Brijesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brijeshvadalia&bg_color=000000&color=ce0dc1&line=28a81f&point=00ff59&area=true&hide_border=true)](https://github.com/brijeshvadalia/github-readme-activity-graph)
 
 ## Snake 🐍 Eating by contribution Graph 
