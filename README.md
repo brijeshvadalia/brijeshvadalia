@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 </div>
-This is the place where I open-source stuff 😊 and break things. I like experimenting with new technologies 💻 , building small cool stuff projects, and occassionally joining hackathons✨.
+This is the place where I open-source stuff 😊 and break things.I like experimenting with new technologies 💻 , building small cool stuff projects, and occassionally joining hackathons✨.
 
 #### I am a helping hand 🤝 to anyone in IT related support 🎗️.
 I made this project just for fun 😊, it allows you to create nice and simple GitHub Readme files that you can copy or paste and use in your profile 😀.
