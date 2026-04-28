@@ -13,7 +13,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 - 🔭 I’m currently working on something refreshing.
-- 🌱 I’m currently learning Azure DevOps.
+- 🌱 I am currently exploring the full spectrum of AI tools.
 - 💬 Ask me about anything 😅 
 - 📫 How to reach me: brijeshvadaliya1@gmail.com 
 - 😄 Pronouns: He/Him/His 
@@ -52,10 +52,10 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 </p>
 
 
-
+<!--
 ## Snake 🐍 Eating by contribution Graph 
 ![Snake GIF](https://github.com/brijeshvadalia/brijeshvadalia/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 ### 🛠 &nbsp;Technologies and Tools
 
@@ -124,7 +124,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
 </p>
 
-
+<!--
 ### 🛠 &nbsp;Learning 📝 Tools and Platforms
 
 <p  align="center">
@@ -145,7 +145,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Codewars"  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
 <img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </p>
-
+-->
 
 ### 🔖 Holopins:
   
@@ -178,6 +178,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
+<!--
 ![Metrics](https://metrics.lecoq.io/brijeshvadalia?template=classic&base.metadata=0&isocalendar=1&lines=1&habits=1&followup=1&achievements=1&posts=1&introduction=1&languages=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&posts=false&posts.source=hashnode&posts.user=brijesh8128&posts.descriptions=true&posts.covers=true&posts.limit=8&config.timezone=Asia%2FCalcutta)
-
+-->
